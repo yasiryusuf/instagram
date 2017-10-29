@@ -1,7 +1,12 @@
-.container-fluid {
-  margin-top: 50px;
+body{
+  background-color: #fafafa;
 }
 
+
+.container-fluid {
+  margin-top: 50px;
+  background-color: #fafafa;
+}
 
 .none {
   height:30px;
@@ -25,6 +30,16 @@ height: 510px;
 margin-top: -36px;
 
 }
+.signing-up {
+    color: #999;
+    text-align: center;
+    margin-right: 51px;
+    margin-top: -31px;
+}
+.terms {
+  color: #999;
+font-weight: 600;
+}
 
 form {
   margin-left: 30px;
@@ -40,6 +55,59 @@ form {
 .form-group {
     margin-bottom: -14px;
     padding: 1px;
+}
+
+.have-account {
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 1px;
+  padding: 10px 0;
+  margin-top: 56px;
+}
+
+.have-text {
+  color: #262626;
+  font-size: 14px;
+  margin: 15px;
+  text-align: center;
+}
+
+.divider {
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  padding:10px;
+}
+
+.divider hr {
+  width:40%;
+}
+
+.right {
+  float: left;
+}
+
+.left {
+  float: right;
+}
+
+.get-text {
+    color: #262626;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 10px 20px;
+    text-align: center;
+}
+
+img.get-pic-img {
+  height:40px;
+  width:125px;
+}
+
+img .get-pic-2 {
+  width:120px;
+  height:40px;
+  float:right;
 }
 
 .border img {
@@ -82,4 +150,33 @@ h2 {
     padding: 0 8px;
     width: 251px;
     margin-bottom: 45px;
+}
+
+.foot {
+  margin-top: 100px;
+}
+
+.foot ul {
+  list-style-type: none;
+  text-decoration: none;
+  float:left;
+}
+.foot li {
+  float: right;
+  padding: 10px;
+}
+
+span.copyright {
+  margin-left: 134px;
+  color: #999;
+  }
+
+.foot a,a:visited {
+  color: #003569;
+  text-decoration: none;
+
+}
+
+nav.foot {
+  margin-left: 120px;
 }
