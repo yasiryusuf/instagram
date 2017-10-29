@@ -1,3 +1,8 @@
+.container-fluid {
+  margin-top: 50px;
+}
+
+
 .none {
   height:30px;
 }
@@ -5,11 +10,25 @@
 .about {
   padding:10px;
   height:auto;
+  background-color: gray;
+  margin-top: 41px;
+
+}
+.border {
+  background-color: #fff;
+border: 1px solid #e6e6e6;
+border-radius: 1px;
+margin: 0 0 10px;
+padding: 10px 0;
+margin-right: 128px;
+height: 510px;
+margin-top: -36px;
+
 }
 
 form {
-  padding: 20px;
-  margin: 30px;
+  margin-left: 30px;
+  margin-bottom: 38px;
 }
 
 .form-control {
@@ -19,6 +38,48 @@ form {
 }
 
 .form-group {
-  margin-bottom: 0px;
-  padding:0px;
+    margin-bottom: -14px;
+    padding: 1px;
+}
+
+.border img {
+  background-position: 0 0;
+  height: 71px;
+  width: 182px;
+  margin-left: 64px;
+}
+h2 {
+  color: #999;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center;
+}
+
+.button-bottom {
+  margin-top: 28px;
+}
+
+.button {
+  width:250px;
+}
+
+.btn-default {
+    border-style: solid;
+    border-width: 1px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+    outline: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    background: #3897f0;
+    border-color: #3897f0;
+    color: #fff;
+    padding: 0 8px;
+    width: 251px;
+    margin-bottom: 45px;
 }
