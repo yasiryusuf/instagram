@@ -73,22 +73,37 @@ form {
 }
 
 .divider {
-  width: 300px;
-  text-align: center;
-  margin: auto;
-  padding:10px;
+    width: 186px;
+    text-align: center;
+    margin: -30px;
+    margin-left: -19px;
 }
 
-.divider hr {
-  width:40%;
-}
 
-.right {
-  float: left;
+hr.right2 {
+  float: right;
 }
 
 .left {
-  float: right;
+    width: 85px;
+    text-align: left;
+    float: left;
+    margin: 11px;
+}
+
+.get-pic {
+    margin-top: 97px;
+    margin-left: 20px;
+    padding: 6px;
+}
+
+img.get-pic-img {
+  width: 125px;
+}
+
+img.get-pic-2 {
+  width: 125px;
+  margin-left: 13px;
 }
 
 .get-text {
@@ -97,17 +112,6 @@ form {
     line-height: 18px;
     margin: 10px 20px;
     text-align: center;
-}
-
-img.get-pic-img {
-  height:40px;
-  width:125px;
-}
-
-img .get-pic-2 {
-  width:120px;
-  height:40px;
-  float:right;
 }
 
 .border img {
