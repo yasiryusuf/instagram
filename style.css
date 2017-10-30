@@ -1,0 +1,192 @@
+body{
+  background-color: #fafafa;
+}
+
+
+.container-fluid {
+  margin-top: 50px;
+  background-color: #fafafa;
+}
+
+.none {
+  height:30px;
+}
+
+.about {
+  padding:10px;
+  height:auto;
+  background-color: gray;
+  margin-top: 41px;
+
+}
+.border {
+  background-color: #fff;
+border: 1px solid #e6e6e6;
+border-radius: 1px;
+margin: 0 0 10px;
+padding: 10px 0;
+margin-right: 128px;
+height: 510px;
+margin-top: -36px;
+
+}
+.signing-up {
+    color: #999;
+    text-align: center;
+    margin-right: 51px;
+    margin-top: -31px;
+}
+.terms {
+  color: #999;
+font-weight: 600;
+}
+
+form {
+  margin-left: 30px;
+  margin-bottom: 38px;
+}
+
+.form-control {
+  background-color: #fafafa;
+  width:250px;
+  margin:5px:
+}
+
+.form-group {
+    margin-bottom: -14px;
+    padding: 1px;
+}
+
+.have-account {
+  background-color: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 1px;
+  padding: 10px 0;
+  margin-top: 60px;
+}
+
+.have-text {
+  color: #262626;
+  font-size: 14px;
+  margin: 15px;
+  text-align: center;
+}
+
+.divider {
+  width: 186px;
+  margin: -30px;
+  margin-left: -1px;
+}
+
+hr {
+  width: 146px;
+float: right;
+margin-top: -12px;
+margin-right: -31px;
+
+}
+hr.right2 {
+  float: right;
+}
+
+.left {
+    width: 85px;
+    text-align: left;
+    float: left;
+    margin: 11px;
+}
+
+.get-pic {
+    margin-top: 12px;
+    margin-left: 20px;
+    padding: 6px;
+}
+
+img.get-pic-img {
+  width: 125px;
+}
+
+img.get-pic-2 {
+  width: 125px;
+  margin-left: 13px;
+}
+
+.get-text {
+  color: #262626;
+  font-size: 14px;
+  line-height: 18px;
+  margin: 10px 20px;
+  margin-top: 99px;
+  margin-left: 112px;
+}
+
+.border img {
+  background-position: 0 0;
+  height: 71px;
+  width: 182px;
+  margin-left: 64px;
+}
+h2 {
+  color: #999;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    margin: 0 40px 10px;
+    text-align: center;
+}
+
+.button-bottom {
+  margin-top: 28px;
+}
+
+.button {
+  width:250px;
+}
+
+.btn-default {
+    border-style: solid;
+    border-width: 1px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+    outline: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    background: #3897f0;
+    border-color: #3897f0;
+    color: #fff;
+    padding: 0 8px;
+    width: 251px;
+    margin-bottom: 45px;
+}
+
+.foot {
+  margin-top: 100px;
+}
+
+.foot ul {
+  list-style-type: none;
+  text-decoration: none;
+  float:left;
+}
+.foot li {
+  float: left;
+  padding: 10px;
+}
+
+span.copyright {
+  margin-left: 134px;
+  color: #999;
+  }
+
+.foot a,a:visited {
+  color: #003569;
+  text-decoration: none;
+
+}
+
+nav.foot {
+  margin-left: 120px;
+}
